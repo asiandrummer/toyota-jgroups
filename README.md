@@ -7,6 +7,10 @@ A middle tier, which provides distributed-querying API, has been developed for t
 1. Assumed that applications along with the middle-tier jars will run in the same JVM.
 2. An IP Address is allocated to the vehicle in the cloud.
 
+## Installation Steps
+Please refer to:
+`documents/installation-guide.docx`
+
 ## Contributors
 Hyo Jeong: hyo.jeong@sv.cmu.edu
 
