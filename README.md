@@ -9,7 +9,7 @@ A middle tier, which provides distributed-querying API, has been developed for t
 
 ## Installation Steps
 Please refer to:
-`documents/installation-guide.docx`
+`documents/how-to-deploy.docx`
 
 ## Contributors
 Hyo Jeong: hyo.jeong@sv.cmu.edu
